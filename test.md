@@ -370,29 +370,6 @@ library(tidyverse)
 ## v purrr   0.3.4
 ```
 
-```
-## Warning: package 'tibble' was built under R version 3.6.3
-```
-
-```
-## Warning: package 'tidyr' was built under R version 3.6.3
-```
-
-```
-## Warning: package 'readr' was built under R version 3.6.3
-```
-
-```
-## Warning: package 'purrr' was built under R version 3.6.3
-```
-
-```
-## Warning: package 'dplyr' was built under R version 3.6.3
-```
-
-```
-## Warning: package 'stringr' was built under R version 3.6.3
-```
 
 ```
 ## Warning: package 'forcats' was built under R version 3.6.3
